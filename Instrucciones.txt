@@ -1,0 +1,9 @@
+- Añadir un cuarto distrito con sus propios votantes y votos.
+
+- Cambiar el umbral de participación al 60 % e imprimir cómo cambian los resultados.
+
+- Añadir soporte para mostrar el número total de candidatos por distrito.
+
+- Ampliar la clase con un método que devuelva el porcentaje de votos que recibió cada candidato.
+
+- Refactorizar para que devuelva nombres en lugar de índices de candidatos (es decir, mapear el índice a los nombres de los candidatos).
